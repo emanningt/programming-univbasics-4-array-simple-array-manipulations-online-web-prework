@@ -30,4 +30,14 @@ def using_insert(array,string)
   array.insert(4, "Python")
 end
 
+def using_uniq(array)
+  array.uniq 
+end
+
+
+
+
+
+
+
 
