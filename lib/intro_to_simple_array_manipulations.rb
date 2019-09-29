@@ -27,7 +27,7 @@ def using_concat(array,string)
 end
 
 def using_insert(array,string)
-  array.insert(2,4)
+  array.insert(4 == 4)
   
 end
 
